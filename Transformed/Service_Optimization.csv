@@ -1,0 +1,16 @@
+Service,Recommendation,Resources,Savings
+ Compute ,Healthy,3,0.0
+ Network ,Healthy,1,0.0
+ Storage ,Healthy,2,0.0
+COMPUTE,Healthy,1,0.0
+Compute,Healthy,220,0.0
+Compute,Snooze,1,15.975999999999999
+DATABASE,Healthy,3,0.0
+Database,Healthy,250,0.0
+Database,Snooze,1,308.088
+NETWORK,Healthy,1,0.0
+Network,Healthy,253,0.0
+STORAGE,Healthy,1,0.0
+Storage,Healthy,259,0.0
+database,Healthy,3,0.0
+storage,Healthy,2,0.0
